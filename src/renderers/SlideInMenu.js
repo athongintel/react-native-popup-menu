@@ -66,7 +66,7 @@ export default class SlideInMenu extends React.Component {
 const styles = StyleSheet.create({
   options: {
     position: 'absolute',
-    backgroundColor: 'white',
+    backgroundColor: 'transparent',
 
     // Shadow only works on iOS.
     shadowColor: 'black',
