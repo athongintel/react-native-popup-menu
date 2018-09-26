@@ -87,7 +87,7 @@ MenuOption.defaultProps = {
 
 const defaultStyles = StyleSheet.create({
   option: {
-    padding: 5,
+    padding: 0,
     backgroundColor: 'transparent',
   },
   optionTextDisabled: {
